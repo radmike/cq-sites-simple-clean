@@ -1,19 +1,15 @@
 Change Log
 ==========
 
-Version 1.0.2
--------------
-
-Updated README
-
-
-Version 1.0.1
--------------
-
-Added CHANGELOG
-
-
 Version 1.0.0
 -------------
 
-Initial version of CQ Dependencies, includes CQ Blueprints Dependencies for taglib projects
+Initial version of the simple-clean site.
+
+Contains basic node projects
+
+* simple-clean-config
+* simple-clean-view
+* simple-clean-content
+* simple-clean-services
+* simple-clean-taglib
