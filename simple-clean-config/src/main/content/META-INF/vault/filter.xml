@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <workspaceFilter version="1.0">
+    <filter root="/apps/simple-clean/install"/>
     <filter root="/apps/simple-clean/runmodes"/>
+    <filter root="/etc/map">
+        <include pattern="/etc/map/simple-clean-.*"/>
+    </filter>
 </workspaceFilter>
