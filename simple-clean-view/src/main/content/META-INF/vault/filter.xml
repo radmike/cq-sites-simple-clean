@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspaceFilter version="1.0">
+    <filter root="/apps/simple-clean">
+        <exclude pattern="/apps/simple-clean/install.*"/>
+        <exclude pattern="/apps/simple-clean/runmodes.*"/>
+    </filter>
+    <filter root="/etc/clientlibs/simple-clean"/>
+	<filter root="/etc/designs/simple-clean">
+        <exclude pattern="/etc/designs/simple-clean/jcr:content.*"/>
+    </filter>
+</workspaceFilter>

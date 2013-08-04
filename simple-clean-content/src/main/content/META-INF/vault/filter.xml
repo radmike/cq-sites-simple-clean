@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspaceFilter version="1.0">
+    <filter root="/content/simple-clean"/>
+    <filter root="/content/dam/simple-clean">
+        <!-- exclude pattern=".*/renditions.*"/ -->
+    </filter>
+    <filter root="/etc/designs/simple-clean/jcr:content">
+        <include pattern="/etc/designs/simple-clean/jcr:content(/.*)+"/>
+    </filter>
+</workspaceFilter>
